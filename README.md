@@ -19,3 +19,21 @@ Featly aims to simplify feature development and management while maintaining fle
 
 ```bash
 pip install -e .
+```
+
+## Status
+This project is currently in early development. We are actively working on:
+
+- [] Core feature definition framework
+- [] Basic storage implementations
+- [] Feature computation pipeline
+- [] Feature validation and testing utilities
+
+## Why Featly?
+Why Featly?
+While there are several feature stores available (like Feast, Hopsworks), Featly focuses on:
+
+- Simplicity: Minimalistic API design that's easy to understand and use
+- Flexibility: Easy to extend and adapt to specific needs
+- Developer Experience: Strong typing and validation out of the box
+- Learning: Great for understanding feature store concepts and building custom solutions
